@@ -1,0 +1,13 @@
+{
+  "Groceries": [
+    "Food",
+    "Drinks"
+  ],
+  "Cosmetics": [
+    "Makeup",
+    "Skincare"
+  ],
+  "Pharmaceuticals": [
+    "Medicine"
+  ]
+}
