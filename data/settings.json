@@ -1,4 +1,5 @@
 {
   "currency": "CHF",
-  "date_format": "%d.%m.%Y"
+  "date_format": "%d.%m.%Y",
+  "debug_calendar": true
 }
